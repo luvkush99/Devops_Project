@@ -34,7 +34,5 @@
    <h1> Thank you for Seeing my project </h1>
    <br>
    <h1> Hope you like this Simple presentation</h1>
-   <br>
-   <h2> This is a test commit </h2>
   
 </form>
